@@ -1,0 +1,9 @@
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/CMakeFiles/main.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/CMakeFiles/rebuild_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/RandomizedQueue/CMakeFiles/RandomizedQueue.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/RandomizedQueue/CMakeFiles/tests.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/RandomizedQueue/CMakeFiles/edit_cache.dir
+/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/RandomizedQueue/CMakeFiles/rebuild_cache.dir

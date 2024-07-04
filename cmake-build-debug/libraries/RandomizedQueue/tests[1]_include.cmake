@@ -1,0 +1,5 @@
+if(EXISTS "/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/RandomizedQueue/tests[1]_tests.cmake")
+  include("/Users/alyonashinkareva/Desktop/ct itmo/cpp/randomized-queue-alyoshinkkaa/cmake-build-debug/libraries/RandomizedQueue/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRandomizedQueue.a CMakeFiles/RandomizedQueue.dir/src/Subset.cpp.o
+/usr/bin/ranlib libRandomizedQueue.a

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/build",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/src/main.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/build/libraries/RandomizedQueue",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/RandomizedQueue.dir/src/Subset.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/src/Subset.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/src/Subset.cpp",
+  "output": "libraries/RandomizedQueue/CMakeFiles/RandomizedQueue.dir/src/Subset.cpp.o"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/build/libraries/RandomizedQueue",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/include -isystem /Users/alyonashinkareva/.conan/data/gtest/1.13.0/_/_/package/329b7541de28d674d0a082361e7574047e3b317f/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/tests.dir/tests/testRandomizedQueue.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/tests/testRandomizedQueue.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/tests/testRandomizedQueue.cpp",
+  "output": "libraries/RandomizedQueue/CMakeFiles/tests.dir/tests/testRandomizedQueue.cpp.o"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/build/libraries/RandomizedQueue",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/include -isystem /Users/alyonashinkareva/.conan/data/gtest/1.13.0/_/_/package/329b7541de28d674d0a082361e7574047e3b317f/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/tests.dir/tests/testSubset.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/tests/testSubset.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/randomized-queue-alyoshinkkaa/libraries/RandomizedQueue/tests/testSubset.cpp",
+  "output": "libraries/RandomizedQueue/CMakeFiles/tests.dir/tests/testSubset.cpp.o"
+}
+]
